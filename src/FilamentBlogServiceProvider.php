@@ -30,7 +30,7 @@ class FilamentBlogServiceProvider extends PackageServiceProvider
                 Layout::class,
                 RecentPost::class,
                 Header::class,
-                // Comment::class,
+                Comment::class,
                 HeaderCategory::class,
                 FeatureCard::class,
                 Card::class
